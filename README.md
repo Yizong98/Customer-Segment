@@ -22,5 +22,5 @@ Necessary Packages:
 License
 -------
 
-dog-breed_classifier is Copyright © 2008-2018 Franz Bot. It is free
+Customer-Segment is Copyright © 2008-2018 Franz Bot. It is free
 software, and may be redistributed.
